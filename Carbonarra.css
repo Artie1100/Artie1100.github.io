@@ -1,0 +1,27 @@
+.center{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  ;}
+
+img {
+  position:relative;
+  top:70px
+}
+
+p {
+  font-size: 40px;
+}
+
+.image1{display: block;
+float: left;}
+
+.image2{display: block;
+float: right;}
+.container {max-width: 400px}
+
+.midt {display: inline;
+
+top: 500px
+left:250px}
+
+#shbjbehbehebj
